@@ -9,8 +9,10 @@ Currently there is no way to download the server because currently the server is
 
 **Support & Other links**
 
-Discord: Coming soon :c \n
-[Official CollabVM](http://computernewb.com/collab-vm/) \n
+Discord: Coming soon :c
+
+[Official CollabVM](http://computernewb.com/collab-vm/)
+
 [Computernewb](http://computernewb.com/)
 
 ============================================================================================
